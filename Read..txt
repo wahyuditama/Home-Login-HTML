@@ -1,11 +1,4 @@
+This is a Simple vVew of Courasel with Bootstrap 5
 
-Website With Login And Register with HTML&CSS&JS
-
---- Image by peter-herrmann ---
-https://unsplash.com/photos/a-view-of-the-underside-of-a-bridge-over-a-body-of-water/
-
---- Image Logo ----
-https://www.cleanpng.com/png-logo-phoenix-art-2240267/
-
---- Image Icons ---
-https://boxicons.com/
+--- img by ---
+https://unsplash.com/ 
